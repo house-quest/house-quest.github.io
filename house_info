@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOUSE QUEST(株)</title>
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/house_info.css" />
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <h1 class="header__ttl"><span>HOUSE QUEST</span>(株)</h1>
+            <div class="header__info">
+                <div class="header__info-time">
+                    <p class="hour">営業時間 10:00～18:00</p>
+                    <p class="date">定休日 日曜日、祝祭日</p>
+                </div>
+                <div class="header__info-tel">
+                    <p class="tel">TEL 089-954-3245</p>
+                    <p class="fax">FAX 089-903-8145</p>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div class="top__list">
+                <ul class="top__list-menu">
+                    <li class="top__list-menu--item"><a href="homepage.html">TOP</a></li>
+                    <li class="top__list-menu--item"><a href="outline.html">会社案内</a></li>
+                    <li class="top__list-menu--item"><a href="house_info.html">物件情報</a></li>
+                </ul>
+            </div>
+            <h2>物件情報</h2>
+            <ol>
+                <li class="info">a</li>
+                <li class="info">a</li>
+                <li class="info">a</li>
+            </ol>
+        </main>
+    </div>
+</body>
+
+</html>
